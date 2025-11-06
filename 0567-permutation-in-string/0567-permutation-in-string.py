@@ -1,16 +1,33 @@
+from collections import defaultdict
+
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        l1,l2 = len(s1),len(s2)
-       
-        dict1 = Counter(s1)
-        dict2 = Counter()
-        for i in range(l2):
-            dict2[s2[i]] +=1
-            if i >=l1:
-                dict2[s2[i-l1]] -=1
-                if dict2[s2[i-l1]] ==0:
-                    del dict2[s2[i-l1]]
-            if dict1 == dict2:
-                return True
-        return False                
+        freq1 = defaultdict(int)
+        freq2 = defaultdict(int)
         
+        le1, le2 = len(s1), len(s2)
+        if le1 > le2:
+            return False
+        
+        # Build initial window
+        for i in range(le1):
+            freq1[s1[i]] += 1
+            freq2[s2[i]] += 1
+        
+        if freq1 == freq2:
+            return True
+        
+        left = 0
+        for right in range(le1, le2):
+            freq2[s2[right]] += 1
+            freq2[s2[left]] -= 1
+            
+            if freq2[s2[left]] == 0:
+                del freq2[s2[left]]
+            
+            left += 1
+            
+            if freq1 == freq2:
+                return True
+        
+        return False
