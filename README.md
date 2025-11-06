@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3195-separate-black-and-white-balls](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
+| [3195-separate-black-and-white-balls](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0567-permutation-in-string) |
 | [0961-long-pressed-name](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-long-pressed-name) |
+| [3195-separate-black-and-white-balls](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
