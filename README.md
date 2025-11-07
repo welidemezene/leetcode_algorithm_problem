@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1020-longest-turbulent-subarray) |
 | [1028-interval-list-intersections](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1046-max-consecutive-ones-iii) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0713-subarray-product-less-than-k) |
 | [1020-longest-turbulent-subarray](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1046-max-consecutive-ones-iii) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1020-longest-turbulent-subarray](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1020-longest-turbulent-subarray) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 <!---LeetCode Topics End-->
