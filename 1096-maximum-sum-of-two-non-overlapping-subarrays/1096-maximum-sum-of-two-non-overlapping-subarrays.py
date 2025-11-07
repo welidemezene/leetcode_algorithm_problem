@@ -1,24 +1,22 @@
 class Solution:
-    def maxSumTwoNoOverlap(self, nums: List[int], L: int, M: int) -> int:
-        # prefix sum
-        for i in range(1, len(nums)):
-            nums[i] += nums[i-1]
-        
-        def get(l, r):
-            return nums[r] - (nums[l-1] if l > 0 else 0)
-        
-        res = 0
-        
-        # Case 1: L before M
-        maxL = get(0, L-1)
-        for i in range(L, len(nums)-M+1):
-            maxL = max(maxL, get(i-L, i-1))
-            res = max(res, maxL + get(i, i+M-1))
-        
-        # Case 2: M before L
-        maxM = get(0, M-1)
-        for i in range(M, len(nums)-L+1):
-            maxM = max(maxM, get(i-M, i-1))
-            res = max(res, maxM + get(i, i+L-1))
-        
-        return res
+    def maxSumTwoNoOverlap(self, nums, firstLen: int, secondLen: int) -> int:
+        maxSum = 0
+        i, j = 0, 0
+        max1, max2 = 0, 0
+        while i < len(nums) - firstLen + 1:
+            max1 = sum(nums[i:i + firstLen])
+            if secondLen <= i:
+                j = 0
+                while j + secondLen <= i:
+                    max2 = sum(nums[j:j + secondLen])
+                    maxSum = max(maxSum, max1 + max2)
+                    j += 1
+
+            if len(nums) - (i + 1) >= secondLen:
+                j = 0
+                while j + i + secondLen <= len(nums):
+                    max2 = sum(nums[i + j + firstLen:i + j + firstLen + secondLen])
+                    maxSum = max(maxSum, max1 + max2)
+                    j += 1
+            i += 1
+        return maxSum
