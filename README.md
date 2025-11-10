@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0567-permutation-in-string) |
 | [0961-long-pressed-name](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-long-pressed-name) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [3195-separate-black-and-white-balls](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Prefix Sum
