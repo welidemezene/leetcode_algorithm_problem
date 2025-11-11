@@ -1,10 +1,9 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        left = bisect.bisect_left(nums, target)
-        
-        # Check if target exists in the array
-        if left == len(nums) or nums[left] != target:
-            return [-1, -1]
-        
-        right = bisect.bisect_right(nums, target) - 1
-        return [left, right]
+        first, last = -1, -1
+        for i in range(len(nums)):
+            if nums[i] == target:
+                if first == -1:
+                    first = i
+                last = i
+        return [first, last]
