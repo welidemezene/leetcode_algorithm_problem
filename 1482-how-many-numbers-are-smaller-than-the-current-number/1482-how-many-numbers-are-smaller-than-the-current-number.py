@@ -1,13 +1,13 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        lis =[]
-        
+        num = sorted(nums)
+        freq = defaultdict(int)
+        for i , n in enumerate(num):
+            if n not in freq:
+                freq[n]=i
+        li = []        
         for i in range(len(nums)):
-            count = 0
-            for j in range(len(nums)):
-                if nums[i] > nums[j]:
-                    count+=1
-            lis.append(count)    
-        return lis        
+            li.append(freq[nums[i]])
+        return li    
 
         
