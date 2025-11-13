@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0713-subarray-product-less-than-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0713-subarray-product-less-than-k) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
@@ -149,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
