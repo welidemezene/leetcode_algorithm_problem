@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1137-height-checker](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1646-kth-missing-positive-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0940-fruit-into-baskets) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
 ## Line Sweep
@@ -168,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
