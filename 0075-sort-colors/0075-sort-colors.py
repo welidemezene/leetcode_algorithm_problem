@@ -1,15 +1,15 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-        freq = defaultdict(int)
-        for i in range(len(nums)):
-            freq[nums[i]]+=1
-        le = freq[0]    
-        for i in range(le):
-            nums[i] = 0
-        le1 = freq[1]    
-        for i in range(le, le+le1):
-            nums[i] = 1
-        for i in range(le+le1, len(nums)):
-            nums[i] = 2            
-        
-        
+
+        red, white, blue = 0, 0, len(nums) - 1
+
+        while white <= blue:
+            if nums[white] == 0:
+                nums[white], nums[red] = nums[red], nums[white]
+                red += 1
+                white += 1
+            elif nums[white] == 1:
+                white += 1
+            else:
+                nums[white], nums[blue] = nums[blue], nums[white]
+                blue -= 1
