@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1137-height-checker) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1217-relative-sort-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0567-permutation-in-string) |
 | [0961-long-pressed-name](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-long-pressed-name) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -176,7 +179,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
