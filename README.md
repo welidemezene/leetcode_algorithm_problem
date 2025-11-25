@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0792-binary-search) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0682-baseball-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0682-baseball-game) |
 ## Game Theory
 |  |
 | ------- |
