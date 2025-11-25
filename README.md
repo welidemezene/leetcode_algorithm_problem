@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0844-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
 | [0961-long-pressed-name](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-long-pressed-name) |
 | [1028-interval-list-intersections](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1028-interval-list-intersections) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0844-backspace-string-compare) |
 | [0961-long-pressed-name](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-long-pressed-name) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0844-backspace-string-compare) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0844-backspace-string-compare) |
 ## Game Theory
 |  |
 | ------- |
