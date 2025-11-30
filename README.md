@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0940-fruit-into-baskets) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0976-largest-perimeter-triangle) |
 | [1020-longest-turbulent-subarray](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1020-longest-turbulent-subarray) |
 | [1028-interval-list-intersections](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1028-interval-list-intersections) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1029-two-city-scheduling) |
 | [1137-height-checker](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1137-height-checker) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
