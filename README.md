@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
+| [2848-points-that-intersect-with-cars](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2848-points-that-intersect-with-cars) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
+| [2848-points-that-intersect-with-cars](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2848-points-that-intersect-with-cars) |
 ## Line Sweep
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2848-points-that-intersect-with-cars](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2848-points-that-intersect-with-cars) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
