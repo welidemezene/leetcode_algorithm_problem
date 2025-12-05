@@ -1,15 +1,14 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        freq1 = defaultdict(int)
+        freq = defaultdict(int)
         l = 0
-        le = len(s)
         max1 = 0
-        for i in range(le):
-            freq1[s[i]]+=1
-            while freq1[s[i]] > 1:
-                freq1[s[l]]-=1
+        for i,c in enumerate(s):
+            freq[c] +=1
+            while freq[c] > 1:
+                freq[s[l]]-=1
                 l+=1
-            max1 = max(max1, i-l+1)
-        return max1        
+            max1 = max(max1, i-l+1)   
+        return max1     
 
         
