@@ -307,4 +307,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
