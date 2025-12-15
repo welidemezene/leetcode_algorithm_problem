@@ -1,15 +1,18 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        freq = {")":"(", "]":"[","}":"{"}
+        freq = {")":"(","]":"[","}":"{"}
         stack = []
-        
         for n in s:
-            if n in "([{":
+            if n in freq.values():
                 stack.append(n)
-            elif n in ")]}":
-                if not stack or freq[n] != stack.pop():
+            elif n in freq.keys():
+                if stack and freq[n] == stack[-1]:
+                    stack.pop()
+                    
+                elif not stack or freq[n] != stack[-1]:
                     return False
-              
-        return not stack                    
+        return stack == []              
+
+
 
         
