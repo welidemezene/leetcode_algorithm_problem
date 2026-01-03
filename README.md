@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1020-longest-turbulent-subarray](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1020-longest-turbulent-subarray) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Interactive
 |  |
