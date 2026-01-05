@@ -1,19 +1,18 @@
 class Solution:
     def maxMatrixSum(self, matrix: List[List[int]]) -> int:
-        total_abs_sum = 0
-        min_abs_val = float('inf')
-        neg_count = 0
+        count_negative = []
+        lis = []
+        total_sum = 0
+        for n in matrix:
+            for m in n:
+                total_sum += abs(m)
+                lis.append(abs(m))
+                if m <= 0:
+                    count_negative.append(m)
+
+        if len(count_negative) % 2 == 0:
+            return total_sum
+        else:
+            val = min(lis)
+            return total_sum - (2 * abs(val))                
         
-        for row in matrix:
-            for val in row:
-                total_abs_sum += abs(val)
-                min_abs_val = min(min_abs_val, abs(val))
-                if val < 0:
-                    neg_count += 1
-        
-        # If there's an odd number of negatives, one MUST stay negative.
-        # We pick the smallest one to stay negative to minimize the loss.
-        if neg_count % 2 == 1:
-            return total_abs_sum - 2 * min_abs_val
-        
-        return total_abs_sum
