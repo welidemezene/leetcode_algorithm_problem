@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3453-separate-squares-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1028-interval-list-intersections) |
+| [3454-separate-squares-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3454-separate-squares-ii) |
 ## String
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3453-separate-squares-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3454-separate-squares-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1266-minimum-time-visiting-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
