@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3453-separate-squares-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3454-separate-squares-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
 | [2848-points-that-intersect-with-cars](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2848-points-that-intersect-with-cars) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Line Sweep
 |  |
 | ------- |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3454-separate-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
